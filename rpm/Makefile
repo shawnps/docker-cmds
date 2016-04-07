@@ -1,5 +1,5 @@
 ROOT=sigscicmd
-CONTAINER=rpm
+CONTAINER=rpmbuild
 
 build:
 	docker build -t ${ROOT}/${CONTAINER} .
