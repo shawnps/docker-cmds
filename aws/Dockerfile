@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:3.4
 MAINTAINER info@signalsciences.com
 
 # groff, less is needed since some help pages "aws s3 help" require it -- why??

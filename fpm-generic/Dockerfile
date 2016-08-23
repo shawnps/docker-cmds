@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:3.4
 MAINTAINER info@signalsciences.com
 RUN set -ex \
     && apk add --update gcc libc-dev ruby ruby-dev libffi libffi-dev make \
