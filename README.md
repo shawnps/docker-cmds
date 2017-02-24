@@ -1,2 +1,2 @@
 # docker-cmds
-Docker contains for command-line applications
+Docker containers for command-line applications
